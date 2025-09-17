@@ -1,0 +1,13 @@
+body {
+  font-family: "Inter", sans-serif;
+  @apply bg-gray-100 flex items-center justify-center min-h-screen;
+}
+
+.custom-active-link {
+  background-color: #00ffff;
+  color: black;
+}
+
+.custom-link {
+  background-color: #00ffff;
+}
